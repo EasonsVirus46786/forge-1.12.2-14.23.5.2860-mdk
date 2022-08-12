@@ -4,6 +4,9 @@ import com.virus.testmod.item.ModItems;
 import net.minecraft.block.BlockCrops;
 import net.minecraft.item.Item;
 
+/**
+ * @author Virus46786
+ */
 public class BlockCropCorn extends BlockCrops {
     public BlockCropCorn() {
         setUnlocalizedName("crop_corn");

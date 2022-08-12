@@ -15,8 +15,8 @@ public class ModBlocks {
 
     public static void register(IForgeRegistry<Block> registry) {
         registry.registerAll(
+                cropCorn,
                 oreCopper
-                cropCorn
         );
     }
 

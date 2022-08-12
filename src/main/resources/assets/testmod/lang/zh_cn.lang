@@ -1,5 +1,7 @@
 # Items
 item.ingot_copper.name=铜锭
+item.corn.name=玉米
+item.corn_seed.name=玉米种子
 
 # Blocks
 tile.ore_copper.name=铜矿
